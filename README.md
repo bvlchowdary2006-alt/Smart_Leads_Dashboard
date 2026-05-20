@@ -2,7 +2,6 @@
 
 A production-grade MERN stack application for managing sales leads with a modern dashboard UI, advanced filtering, RBAC, and analytics.
 
-![Dashboard Preview](./docs/dashboard-preview.png)
 
 ## Features
 
