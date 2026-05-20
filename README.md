@@ -311,6 +311,3 @@ docker compose -f docker-compose.yml up -d --build
 - Input validation with Zod
 - MongoDB injection prevention
 
-## License
-
-MIT
